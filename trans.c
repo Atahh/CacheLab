@@ -1,6 +1,5 @@
 /* 
- * Atah Omar
- * 101865123 
+ * Atah
  *
  * trans.c - Matrix transpose B = A^T
  *
