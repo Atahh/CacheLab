@@ -1,11 +1,6 @@
-/*************/
-/* Atah Omar */
-/*************/
-/*
-Got help from tutors
-https://www.youtube.com/watch?v=HFa1NkFTeSw
-Help from other class mates
-*/
+/********/
+/* Atah */
+/********/
 
 #include "cachelab.h"
 #include <assert.h>
